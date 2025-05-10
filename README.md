@@ -12,7 +12,7 @@ Este repositorio documenta los pasos realizados para completar la prueba técnic
 3. Subí el proyecto a Producción e ingresé al frontend de Odoo
    ![image](https://github.com/user-attachments/assets/f8e942de-a3d6-479f-b402-ef2d39830bb1)
 
-4. Una vez dentro de Odoo, ingresé al módulo de aplicaciones, busqué contactos e hice click en Instalar.
+4. Una vez dentro de Odoo, ingresé al módulo de aplicaciones, busqué contactos e hice click en Activar.
    ![image](https://github.com/user-attachments/assets/05b31e5c-4f20-4504-8db7-e3f7fd96b552)
 
 5. Ingresé al módulo de contactos, hice click en crear para añadir un nuevo contacto e ingresé la información del contacto.
@@ -31,7 +31,7 @@ Este repositorio documenta los pasos realizados para completar la prueba técnic
 ---
 ✅ Todos los pasos fueron completados exitosamente.  
 📁 Repositorio: [https://github.com/pixeml/test-ndu-103](https://github.com/pixeml/test-ndu-103)  
-📬 Enviado por correo a: implementaciones@noduu.com  
+📬 Enviado por correo a: implementaciones@noduu.com
 
 ¡Gracias por su tiempo!
 
